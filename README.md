@@ -4,4 +4,4 @@
 Study material and certificate for Google Cloud Production Machine Learning System from Coursera. Completed in May 2023.
 
 
-![alt text](https://github.com/JasonSCFu/Google-Cloud-Production-Machine-Learning-System-Course/blob/main/certificate.pdf)
+![Certificate](certificate.pdf)
